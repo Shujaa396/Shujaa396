@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hey there, fellow code adventurer!🚀 I'm  Syed Shujaa Hussain😎 </h1>
 
 <h3 align="center">🚀 Welcome to my quirky corner of the coding universe! 🌌 I'm just a curious human with a passion for turning caffeine into code and pixels into magic.🔥</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif">
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 <p align="left"> <a href="https://www.linkedin.com/in/syed-shujaa-hussain-69113b289/" target="blank"><img src="https://img.shields.io/twitter/follow/SYED SHUJAA?logo=twitter&style=for-the-badge" alt="SYED SHUJAA" /></a> </p>
 
 - 🌱 I’m currently learning **HTML , JavaScript , CSS**
