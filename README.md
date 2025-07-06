@@ -33,6 +33,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
+
+## 📄 My Resume / Portfolio:
+[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1yKUbA1ICJYDvlHyTWLSHtssW3jR7Xiwa/view?usp=drive_link)
+
+
 ## 🚀 Live Demo:
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel)](https://sprotfolios.netlify.app/)
 
