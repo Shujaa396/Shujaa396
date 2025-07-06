@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Responsive Design, HTML, CSS, JavaScript, Front-End Development, Animations, UI/UX, Mobile-First Design**
 
-- 📫 How to reach me **web.shujaa396@gmail.com**
+- 📫 How to reach me **web.shujaa10@gmail.com**
 
 ## 🌐 Socials:
 <p align="left">
@@ -34,7 +34,7 @@
 
 
 ## 🚀 Live Demo:
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel)](https://rest-api-backend-task.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel)](https://sprotfolios.netlify.app/)
 
 
 # 📊 GitHub Stats:
