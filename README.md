@@ -61,7 +61,7 @@
 
 
 ## 📄 My Resume / Portfolio:
-[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1yKUbA1ICJYDvlHyTWLSHtssW3jR7Xiwa/view?usp=drive_link)
+[![View Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1A1T4GiF1J-M-e5eNEXZIa2lW04sPIg7o/view?usp=sharing)
 
 
 ## 🚀 Live Demo:
