@@ -65,7 +65,7 @@
 
 
 ## 🚀 Live Demo:
-[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel)](https://sprotfolios.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel)](https://developerportfolio-sepia.vercel.app/)
 
 
 # 📊 GitHub Stats:
